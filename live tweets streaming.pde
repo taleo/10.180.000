@@ -15,10 +15,10 @@ void setup()
     //size(800,600);
     fullScreen();
  ConfigurationBuilder cb = new ConfigurationBuilder();
-    cb.setOAuthConsumerKey("GBkdVqCUDm7qveNm5TGfCOktL");
-    cb.setOAuthConsumerSecret("UeJ1HStc1g9t8KnPRxdWjkc2UAbq9SVGP27et0HydQ71JP657e");
-    cb.setOAuthAccessToken("4846464616-2pEMbxEMuOcyiF7e9mDCkisSK1izOr0IO5CRhCQ");
-    cb.setOAuthAccessTokenSecret("qiRprQSFWlhKoLrsfDPYDdv6hCuVq6FZyDzezzWHl15F3");
+    cb.setOAuthConsumerKey("your consumer key here");
+    cb.setOAuthConsumerSecret("your consumer secret here");
+    cb.setOAuthAccessToken("your acces token here");
+    cb.setOAuthAccessTokenSecret("your acces token secret here");
 
     TwitterFactory tf = new TwitterFactory(cb.build());
 
