@@ -2,7 +2,7 @@
 A Processing Sketch which search Twitter and stream live tweets containing the word "refugee".
 <br/>
 <br/>
-Part of the installation "10.180.000" (2016) by Matteo Montanari and Simona Cafagna<br/>
+Part of the installation "10.180.000" (2016) by Matteo Montanari and Simona Cafagna (http://symonac.tumblr.com/)<br/>
 <br/>
 https://vimeo.com/175579817
 <br/>
